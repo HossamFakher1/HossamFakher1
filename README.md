@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Hossam Fakher
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning AI
+- 👀 I’m Computer Vision Engineer 
 
 
 <!---
