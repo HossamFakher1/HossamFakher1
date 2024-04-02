@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Hossam Fakher
-- 👀 I’m Computer Vision Engineer 
+Teaching assistant at the Faculty of Computers and Artificial Intelligence in Benha. I finished my pre-master’s degree and am currently preparing for my master’s degree.
 
 
 <!---
